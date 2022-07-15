@@ -1,0 +1,18 @@
+Criação e testar base de dados previsao 10 minutos
+
+Criação do Backend:
+
+- Criar projeto base - previsão 1h
+- Criar as funcionalidades Crud- previsão 1h
+- Criar conexão com o banco - previsão 1h
+- Criar classes na Model - previsão 1h
+
+Criação do Frontend
+
+- Criar o projeto react - previsão 30 min
+- Adicionar nugets ao proj prev - previsão 30 min
+- Criar pastas e arquivos JS - previsão prev 1h
+- Configurar e ajustar os arquivos JS com Backend - previsão 1h
+- Ajustar visual frontend  - previsão 1h
+
+Tempo Total : 8h
